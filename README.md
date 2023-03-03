@@ -4,9 +4,15 @@
 ## I'm Systems Engineer
 **I'm from Colombia**
 
-> I´m currently learning ***Full-stack JavaScript*** with the Bootcamp of ***[Guillermo Rodas](https://guillermorodas.com/)*** y ***[Undefined Academy](https://undefined.academy/)***
+> I´m currently learning ***Full-stack JavaScript*** in the Bootcamp of ***[Guillermo Rodas](https://guillermorodas.com/)*** y ***[Undefined Academy](https://undefined.academy/)***
 
-
+### Lenguajes y herramientas ⚙✨
+- HTML
+- CSS
+- JavaScript
+- Git/GitHub
+- Azure DevOp
+___________________________________________________________________________________________________________________________________
 
 ***Comandos para el manejo de carpetas:***
 
