@@ -1,8 +1,8 @@
 
 
-# Hi there 👋 I´m Cristian Bolaño
-## I,m Systems Engineer
-**I´m from Colombia**
+# Hi there 👋 I'm Cristian Bolaño
+## I'm Systems Engineer
+**I'm from Colombia**
 
 > I´m currently learning ***Full-stack JavaScript*** with the Bootcamp of ***[Guillermo Rodas](https://guillermorodas.com/)*** y ***[Undefined Academy](https://undefined.academy/)***
 
