@@ -12,6 +12,8 @@
 - JavaScript
 - Git/GitHub
 - Azure DevOp
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github)](https://skillicons.dev)
 ___________________________________________________________________________________________________________________________________
 
 ***Comandos para el manejo de carpetas:***
